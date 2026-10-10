@@ -267,6 +267,7 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 400; letter-spacing:
   padding: 40px;
   box-shadow: var(--shadow);
 }
+.wave-circle img { width: 140px; height: auto; }
 
 /* ===== Menu ===== */
 .menu-section { padding: 0; background: var(--teal-light); position: relative; }
